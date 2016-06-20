@@ -1,0 +1,9 @@
+#Ant properties
+#Thu Jan 28 16:53:23 CET 2016
+builddate=20160128 1651
+description=testweb
+name=testweb
+releasedate=20150915 1445
+vendor=hybris
+version=5.7.0.6
+version.api=5.7.0
